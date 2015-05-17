@@ -7,5 +7,6 @@ namespace Prj.CodeStd.Biz
 {
     public class System
     {
+        string strName = "D2NBE";
     }
 }
