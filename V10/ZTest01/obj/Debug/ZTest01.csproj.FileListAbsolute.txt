@@ -5,3 +5,6 @@ D:\Allprjs\Me\CodeStd\V10\ZTest01\obj\Debug\ZTest01.ZTest.resources
 D:\Allprjs\Me\CodeStd\V10\ZTest01\obj\Debug\ZTest01.csproj.GenerateResource.Cache
 D:\Allprjs\Me\CodeStd\V10\ZTest01\obj\Debug\ZTest01.exe
 D:\Allprjs\Me\CodeStd\V10\ZTest01\obj\Debug\ZTest01.pdb
+D:\Allprjs\Me\CodeStd\V10\ZTest01\obj\Debug\ZTest01.csprojResolveAssemblyReference.cache
+D:\Allprjs\Me\CodeStd\V10\ZTest01\bin\Debug\Prj.CodeStd.Biz.dll
+D:\Allprjs\Me\CodeStd\V10\ZTest01\bin\Debug\Prj.CodeStd.Biz.pdb
