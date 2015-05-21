@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Prj.CodeStd.Biz.VS13SBS.PII
 {
-	class Circle
+	public class Circle
 	{
-		int radius;
+		public int radius;
 
 		double Area()
 		{

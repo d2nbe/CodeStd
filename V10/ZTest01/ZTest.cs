@@ -36,8 +36,18 @@ namespace ZTest01
 
 		#region // TestMix_01_CallService:
 		private void TestMix_01_CallService()
-		{ 
-			
+		{
+			////
+			bool bTest = false;
+
+			////
+			if (!bTest)
+			{
+				TBiz.VS13SBS.PII.Circle c = new TBiz.VS13SBS.PII.Circle();
+				c.radius = 28;
+				TBiz.VS13SBS.PII.Circle d;
+				d = c;	
+			}			
 		}
 		#endregion
 		
