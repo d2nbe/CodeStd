@@ -43,10 +43,17 @@ namespace ZTest01
 			////
 			if (!bTest)
 			{
+				////
 				TBiz.VS13SBS.PII.Circle c = new TBiz.VS13SBS.PII.Circle();
 				c.radius = 28;
 				TBiz.VS13SBS.PII.Circle d;
 				d = c;	
+				////
+				d.radius = d.radius - 1;
+
+				////
+				int nTotal = TBiz.VS13SBS.PII.Circle.SumParams(new int[] {2, 4});
+
 			}			
 		}
 		#endregion

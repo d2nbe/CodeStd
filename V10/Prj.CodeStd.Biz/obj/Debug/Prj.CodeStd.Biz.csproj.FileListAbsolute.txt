@@ -6,3 +6,4 @@ D:\Allprjs\Me\CodeStd\V10\Prj.CodeStd.Biz\bin\Debug\Prj.CodeStd.Biz.dll
 D:\Allprjs\Me\CodeStd\V10\Prj.CodeStd.Biz\bin\Debug\Prj.CodeStd.Biz.pdb
 D:\Allprjs\Me\CodeStd\V10\Prj.CodeStd.Biz\obj\Debug\Prj.CodeStd.Biz.dll
 D:\Allprjs\Me\CodeStd\V10\Prj.CodeStd.Biz\obj\Debug\Prj.CodeStd.Biz.pdb
+D:\Allprjs\Me\CodeStd\V10\Prj.CodeStd.Biz\obj\Debug\Prj.CodeStd.Biz.csprojResolveAssemblyReference.cache
